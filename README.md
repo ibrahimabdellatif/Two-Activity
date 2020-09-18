@@ -1,2 +1,2 @@
 # moving Data
-this prject have two activity
+this prject have two activity.
